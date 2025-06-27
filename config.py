@@ -1,4 +1,4 @@
 # Replace with your API_ID, API_HASH, BOT_TOKEN
-API_ID = ''
-API_HASH = ''
-BOT_TOKEN = ''
+API_ID = '19274214'
+API_HASH = 'bf87adfbc2c24c66904f3c36f3c0af3a'
+BOT_TOKEN = '7587402234:AAFBMW_vb-c0WJtburTIyOF_vmZj5Ay04J4'
